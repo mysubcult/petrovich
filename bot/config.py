@@ -3,10 +3,10 @@
 config = {
     # heroku
     "heroku_postgres_key": "<here your postgres url>",
-    "heroku_url": "<heroku url>",
+    "heroku_url": "https://telegrambot12.herokuapp.com/",
 
     # telegram
-    "telegram_bot_url": "https://api.telegram.org/bot",
+    "telegram_bot_url": "https://api.telegram.org/sltvbot",
     "telegram_token": "139807062:AAHlj0NzwLNWD43jypNy4isTlPaAMSfCHXs",
 
     # app
