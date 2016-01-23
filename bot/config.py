@@ -7,7 +7,7 @@ config = {
 
     # telegram
     "telegram_bot_url": "https://api.telegram.org/bot",
-    "telegram_token": "<telegram bot token>",
+    "telegram_token": "139807062:AAHlj0NzwLNWD43jypNy4isTlPaAMSfCHXs",
 
     # app
     "type": "vk",
