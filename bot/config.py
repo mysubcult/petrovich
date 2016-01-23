@@ -6,7 +6,7 @@ config = {
     "heroku_url": "https://telegrambot12.herokuapp.com/",
 
     # telegram
-    "telegram_bot_url": "https://api.telegram.org/sltvbot",
+    "telegram_bot_url": "telegram.me/sltv",
     "telegram_token": "139807062:AAHlj0NzwLNWD43jypNy4isTlPaAMSfCHXs",
 
     # app
